@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\CareerCrafter\CareerCrafterTest\bin\Debug\net8.0\CoverletSourceRootsMapping_CareerCrafterTest
+C:\Users\Dell\source\repos\CareerCrafter\CareerCrafterTest\obj\Debug\net8.0\CareerCrafterTest.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\CareerCrafter\CareerCrafterTest\obj\Debug\net8.0\CareerCrafterTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\CareerCrafter\CareerCrafterTest\obj\Debug\net8.0\CareerCrafterTest.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\CareerCrafter\CareerCrafterTest\obj\Debug\net8.0\CareerCrafterTest.AssemblyInfo.cs
+C:\Users\Dell\source\repos\CareerCrafter\CareerCrafterTest\obj\Debug\net8.0\CareerCrafterTest.csproj.CoreCompileInputs.cache

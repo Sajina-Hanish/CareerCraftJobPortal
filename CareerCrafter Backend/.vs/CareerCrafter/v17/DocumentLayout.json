@@ -1,0 +1,576 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercrafter\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|solutionrelative:careercrafter\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercrafter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|solutionrelative:careercrafter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercrafter\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|solutionrelative:careercrafter\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercrafter\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|solutionrelative:careercrafter\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercrafter\\migrations\\20250929085735_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|solutionrelative:careercrafter\\migrations\\20250929085735_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercrafter\\careercrafter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|solutionrelative:careercrafter\\careercrafter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercrafter\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|solutionrelative:careercrafter\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercrafter\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|solutionrelative:careercrafter\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercrafter\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|solutionrelative:careercrafter\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercrafter\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|solutionrelative:careercrafter\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9105D237-362A-4773-9E2A-CA3F004A399C}|CareerCrafterTests\\CareerCrafterTests.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercraftertests\\jobapplicationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9105D237-362A-4773-9E2A-CA3F004A399C}|CareerCrafterTests\\CareerCrafterTests.csproj|solutionrelative:careercraftertests\\jobapplicationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercrafter\\dtos\\jobapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|solutionrelative:careercrafter\\dtos\\jobapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercrafter\\controllers\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|solutionrelative:careercrafter\\controllers\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercrafter\\dtos\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|solutionrelative:careercrafter\\dtos\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercrafter\\repositories\\implementation\\jobapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|solutionrelative:careercrafter\\repositories\\implementation\\jobapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercrafter\\repositories\\interfaces\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|solutionrelative:careercrafter\\repositories\\interfaces\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercrafter\\repositories\\interfaces\\ijobapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|solutionrelative:careercrafter\\repositories\\interfaces\\ijobapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercrafter\\controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|solutionrelative:careercrafter\\controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\IAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\JobApplicationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\IJobApplicationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\JobService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\IJobService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercrafter\\repositories\\implementation\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|solutionrelative:careercrafter\\repositories\\implementation\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9105D237-362A-4773-9E2A-CA3F004A399C}|CareerCrafterTests\\CareerCrafterTests.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercraftertests\\jobservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9105D237-362A-4773-9E2A-CA3F004A399C}|CareerCrafterTests\\CareerCrafterTests.csproj|solutionrelative:careercraftertests\\jobservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9105D237-362A-4773-9E2A-CA3F004A399C}|CareerCrafterTests\\CareerCrafterTests.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercraftertests\\careercraftertests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9105D237-362A-4773-9E2A-CA3F004A399C}|CareerCrafterTests\\CareerCrafterTests.csproj|solutionrelative:careercraftertests\\careercraftertests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9105D237-362A-4773-9E2A-CA3F004A399C}|CareerCrafterTests\\CareerCrafterTests.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercraftertests\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9105D237-362A-4773-9E2A-CA3F004A399C}|CareerCrafterTests\\CareerCrafterTests.csproj|solutionrelative:careercraftertests\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercrafter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|solutionrelative:careercrafter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercrafter\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|solutionrelative:careercrafter\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercrafter\\repositories\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|solutionrelative:careercrafter\\repositories\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercrafter\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|solutionrelative:careercrafter\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercrafter\\repositories\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|solutionrelative:careercrafter\\repositories\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|c:\\users\\dell\\onedrive\\desktop\\updated project\\careercrafter backend\\careercrafter\\careercrafter.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}|CareerCrafter\\CareerCrafter.csproj|solutionrelative:careercrafter\\careercrafter.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 34,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "jobApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Models\\jobApplication.cs",
+              "RelativeDocumentMoniker": "CareerCrafter\\Models\\jobApplication.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Models\\jobApplication.cs",
+              "RelativeToolTip": "CareerCrafter\\Models\\jobApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T13:30:58.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Controllers\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CareerCrafter\\Controllers\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Controllers\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CareerCrafter\\Controllers\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:46:58.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CareerCrafter\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Models\\User.cs",
+              "RelativeToolTip": "CareerCrafter\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:54:58.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "CareerCrafter\\Models\\Job.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Models\\Job.cs",
+              "RelativeToolTip": "CareerCrafter\\Models\\Job.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:54:56.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "CareerCrafter\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "CareerCrafter\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T01:02:03.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CareerCrafter\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CareerCrafter\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T13:29:18.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Program.cs",
+              "RelativeDocumentMoniker": "CareerCrafter\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Program.cs",
+              "RelativeToolTip": "CareerCrafter\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwDIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:46:43.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CareerCrafter\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CareerCrafter\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-26T13:55:36.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CareerCrafter\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CareerCrafter\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:47:25.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JobApplicationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\DTOs\\JobApplicationDTO.cs",
+              "RelativeDocumentMoniker": "CareerCrafter\\DTOs\\JobApplicationDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\DTOs\\JobApplicationDTO.cs",
+              "RelativeToolTip": "CareerCrafter\\DTOs\\JobApplicationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T13:35:20.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CareerCrafter.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\CareerCrafter.csproj",
+              "RelativeDocumentMoniker": "CareerCrafter\\CareerCrafter.csproj",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\CareerCrafter.csproj",
+              "RelativeToolTip": "CareerCrafter\\CareerCrafter.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-31T10:53:55.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250929085735_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Migrations\\20250929085735_Initial Migration.cs",
+              "RelativeDocumentMoniker": "CareerCrafter\\Migrations\\20250929085735_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Migrations\\20250929085735_Initial Migration.cs",
+              "RelativeToolTip": "CareerCrafter\\Migrations\\20250929085735_Initial Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:57:35.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JobApplicationServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafterTests\\JobApplicationServiceTests.cs",
+              "RelativeDocumentMoniker": "CareerCrafterTests\\JobApplicationServiceTests.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafterTests\\JobApplicationServiceTests.cs",
+              "RelativeToolTip": "CareerCrafterTests\\JobApplicationServiceTests.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAuwF4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:36:05.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JobDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\DTOs\\JobDTO.cs",
+              "RelativeDocumentMoniker": "CareerCrafter\\DTOs\\JobDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\DTOs\\JobDTO.cs",
+              "RelativeToolTip": "CareerCrafter\\DTOs\\JobDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:22:11.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JobApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Repositories\\Implementation\\JobApplicationService.cs",
+              "RelativeDocumentMoniker": "CareerCrafter\\Repositories\\Implementation\\JobApplicationService.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Repositories\\Implementation\\JobApplicationService.cs",
+              "RelativeToolTip": "CareerCrafter\\Repositories\\Implementation\\JobApplicationService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T10:53:54.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IJobService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Repositories\\Interfaces\\IJobService.cs",
+              "RelativeDocumentMoniker": "CareerCrafter\\Repositories\\Interfaces\\IJobService.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Repositories\\Interfaces\\IJobService.cs",
+              "RelativeToolTip": "CareerCrafter\\Repositories\\Interfaces\\IJobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T10:53:54.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IJobApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Repositories\\Interfaces\\IJobApplicationService.cs",
+              "RelativeDocumentMoniker": "CareerCrafter\\Repositories\\Interfaces\\IJobApplicationService.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Repositories\\Interfaces\\IJobApplicationService.cs",
+              "RelativeToolTip": "CareerCrafter\\Repositories\\Interfaces\\IJobApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T08:47:26.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JobApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Controllers\\JobApplicationController.cs",
+              "RelativeDocumentMoniker": "CareerCrafter\\Controllers\\JobApplicationController.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Controllers\\JobApplicationController.cs",
+              "RelativeToolTip": "CareerCrafter\\Controllers\\JobApplicationController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T00:56:26.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Repositories\\Implementation\\JobService.cs",
+              "RelativeDocumentMoniker": "CareerCrafter\\Repositories\\Implementation\\JobService.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Repositories\\Implementation\\JobService.cs",
+              "RelativeToolTip": "CareerCrafter\\Repositories\\Implementation\\JobService.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAuwG4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T10:53:54.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "JobServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafterTests\\JobServiceTests.cs",
+              "RelativeDocumentMoniker": "CareerCrafterTests\\JobServiceTests.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafterTests\\JobServiceTests.cs",
+              "RelativeToolTip": "CareerCrafterTests\\JobServiceTests.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:07:09.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CareerCrafterTests.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafterTests\\CareerCrafterTests.csproj",
+              "RelativeDocumentMoniker": "CareerCrafterTests\\CareerCrafterTests.csproj",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafterTests\\CareerCrafterTests.csproj",
+              "RelativeToolTip": "CareerCrafterTests\\CareerCrafterTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-20T06:55:56.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAAIVAAAAAAAAAAArwBEVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-09-28T21:15:20.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuthServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafterTests\\AuthServiceTests.cs",
+              "RelativeDocumentMoniker": "CareerCrafterTests\\AuthServiceTests.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafterTests\\AuthServiceTests.cs",
+              "RelativeToolTip": "CareerCrafterTests\\AuthServiceTests.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T20:35:49.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\appsettings.json",
+              "RelativeDocumentMoniker": "CareerCrafter\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\appsettings.json",
+              "RelativeToolTip": "CareerCrafter\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-20T12:25:19.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "CareerCrafter\\Controllers\\JobController.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Controllers\\JobController.cs",
+              "RelativeToolTip": "CareerCrafter\\Controllers\\JobController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T16:48:42.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Repositories\\Implementation\\AuthService.cs",
+              "RelativeDocumentMoniker": "CareerCrafter\\Repositories\\Implementation\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Repositories\\Implementation\\AuthService.cs",
+              "RelativeToolTip": "CareerCrafter\\Repositories\\Implementation\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T12:30:37.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "CareerCrafter\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "CareerCrafter\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:03:51.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Repositories\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "CareerCrafter\\Repositories\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\Repositories\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "CareerCrafter\\Repositories\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T10:53:54.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CareerCrafter.http",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\CareerCrafter.http",
+              "RelativeDocumentMoniker": "CareerCrafter\\CareerCrafter.http",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Updated project\\CareerCrafter Backend\\CareerCrafter\\CareerCrafter.http",
+              "RelativeToolTip": "CareerCrafter\\CareerCrafter.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-26T13:56:00.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JobApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\JobApplicationService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\JobApplicationService.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\JobApplicationService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\JobApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwFoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T01:02:34.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\IAuthService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\IAuthService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\IAuthService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T01:01:41.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IJobApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\IJobApplicationService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\IJobApplicationService.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\IJobApplicationService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\IJobApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T13:35:14.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\JobService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\JobService.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\JobService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\JobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T13:30:41.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IJobService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\IJobService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\IJobService.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\IJobService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\IJobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T13:35:17.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\AuthService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\CareerCrafter\\CareerCrafter\\Repositories\\AuthService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:47:35.01Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

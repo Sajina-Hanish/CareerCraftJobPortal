@@ -1,0 +1,25 @@
+.jobseeker-dashboard {
+  background-image: url('../assets/JobsBackground.jpg');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  width: 100%;
+  position: relative;
+}
+
+.jobseeker-dashboard .overlay {
+  background-color: rgba(0, 0, 0, 0.7);
+  min-height: 100vh;
+  width: 100%;
+}
+
+.search-btn {
+  background-color: #ffffff !important;
+  color: rgb(0, 0, 0) !important;
+  border: none !important;
+}
+
+.search-btn:hover {
+  background-color: black !important;
+  color: white !important;
+}

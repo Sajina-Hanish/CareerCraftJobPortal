@@ -1,0 +1,23 @@
+.custom-navbar {
+  background-color: rgba(255, 255, 255, 0.85);
+}
+
+.custom-navbar .navbar-brand {
+  color: #02122e; 
+}
+
+.custom-navbar .btn {
+  background-color: #02122e;
+  color: white;
+  border-color: #02122e !important;
+}
+
+.custom-navbar .btn:hover {
+  background-color: #868484 !important;
+  color: white ;
+}
+
+.user-role {
+  color: #02122e;
+  font-weight: 600;
+}

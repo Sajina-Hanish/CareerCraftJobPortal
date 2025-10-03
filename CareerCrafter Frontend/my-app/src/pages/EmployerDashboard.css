@@ -1,0 +1,52 @@
+.employer-dashboard {
+  background-image: url('../assets/EmployerDashboard.png');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  width: 100%;
+  position: relative;
+}
+
+.employer-dashboard .overlay {
+  background-color: rgba(0, 0, 0, 0.7);
+  min-height: 100vh;
+  width: 100%;
+}
+
+.form-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.edit-btn {
+  background-color: rgb(153, 191, 203) !important;
+  color: white !important;
+  border: none;
+}
+
+.edit-btn:hover {
+  background-color: #868484 !important;
+  border-color: #02122e !important;
+}
+
+.delete-btn {
+  background-color: red !important;
+  color: white !important;
+  border: none;
+}
+
+.delete-btn:hover {
+  background-color: #868484 !important;
+  border-color: #02122e !important;
+}
+
+.post-btn {
+  background-color: #02122e !important;
+  color: white !important;
+  border: none;
+}
+
+.post-btn:hover {
+  background-color: #868484 !important;
+  border-color: #02122e !important;
+}

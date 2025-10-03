@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerCrafter", "CareerCrafter\CareerCrafter.csproj", "{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerCrafterTests", "CareerCrafterTests\CareerCrafterTests.csproj", "{9105D237-362A-4773-9E2A-CA3F004A399C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA430A8-D29D-4A25-8C94-FC0EF03F1E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9105D237-362A-4773-9E2A-CA3F004A399C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9105D237-362A-4773-9E2A-CA3F004A399C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9105D237-362A-4773-9E2A-CA3F004A399C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9105D237-362A-4773-9E2A-CA3F004A399C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FBD0BE0-EF85-4CD7-B099-60C51D68970D}
+	EndGlobalSection
+EndGlobal
